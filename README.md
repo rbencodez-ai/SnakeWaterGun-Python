@@ -24,4 +24,4 @@ Features **score tracking**, a **menu system**, and fun emoji-based gameplay.
 ## ⚙️ Installation & Running
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/SnakeWaterGun-Python.git
+   git clone https://github.com/rbencodez-ai/SnakeWaterGun-Python.git
